@@ -92,3 +92,23 @@ Extra Section, Call it Whatever You Want
 * Random tidbit
 
 * Other sort of impressive-sounding thing you did
+```java
+public class Test{
+  public static void main(String[] args){
+   
+  }
+}
+```
+```python
+#!/usr/bin/env python
+import numpy as np
+print('sadsad')
+```
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+%%hdshdshdsh
+$$\int_\Omega \nabla u\nabla v$$
+\end{document}
+```
